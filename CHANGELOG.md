@@ -35,7 +35,7 @@ Note that this project **does not** adhere to [Semantic Versioning](http://semve
 - When configured SSL certificates changed, JabRef warns the user to restart to apply the configuration.
 - We improved the appearances and logic of the "Manage field names & content" dialog, and renamed it to "Automatic field editor". [#6536](https://github.com/JabRef/jabref/issues/6536)
 - We fixed an issue that caused JabRef to sometimes open multiple instances when "Remote Operation" is enabled. [#8653](https://github.com/JabRef/jabref/issues/8653)
-
+- Testing Pull Request
 ### Fixed
 
 - We fixed an issue where linked files with the filetype "application/pdf" in an entry were not shown with the correct PDF-Icon in the main table [8930](https://github.com/JabRef/jabref/issues/8930)
